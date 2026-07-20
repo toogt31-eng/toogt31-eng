@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋 I'm Magsarjav Tuguldur
 
-<!--
-**toogt31-eng/toogt31-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Backend & AI Engineer
 
-Here are some ideas to get you started:
+I build scalable backend systems, distributed applications, and AI-powered software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Backend Software Engineer
+- 🤖 AI Engineering & LLM Applications
+- ⚙️ REST APIs & System Design
+- 🐳 Docker & Linux
+- 🗄 PostgreSQL & Redis
+- ☁️ Cloud-ready Applications
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Ruby
+- Python
+- Node.js
+
+### Database
+- PostgreSQL
+- MySQL
+- Redis
+
+### DevOps
+- Docker
+- Git
+- GitHub Actions
+- Linux
+
+### AI
+- OpenAI API
+- Claude
+- Prompt Engineering
+- AI Agents
+
+---
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- High Performance Backend
+- AI Agent Workflows
+- Event Driven Architecture
+
+---
+
+## 📫 Contact
+
+📧 Email: **toogt31@gmail.com**
+
+🌍 Mongolia
+
+---
+
+> "Build software that people love."
