@@ -1,46 +1,21 @@
-# Hi 👋 I'm Magsarjav Tuguldur
+# Hi, I'm Tuguldur
 
-Backend Software Engineer passionate about building scalable backend systems, developer tools and AI-powered applications.
+Data analyst based in Mongolia. I turn messy spreadsheets into clean data and clear, interactive dashboards.
 
----
+With a background in chemical engineering, I'm comfortable working with process data and numbers, and I like digging into *why* a metric looks the way it does.
 
-## What I enjoy building
+## Skills
 
-- Backend APIs
-- Distributed systems
-- AI applications
-- Event-driven architectures
-- Developer tools
-- High performance databases
+- **Power BI**: data modeling, DAX, interactive dashboards
+- **SQL**: joins, aggregations, reporting queries
+- **Python**: pandas, data cleaning, exploratory analysis
+- **Excel**: Power Query, pivot tables, advanced formulas
 
----
+## Projects
 
-## Tech
-
-Ruby
-
-Python
-
-PostgreSQL
-
-Redis
-
-Docker
-
-Linux
-
-JavaScript
-
-Vue.js
-
----
-
-## Current Focus
-
-Building production-ready backend systems with AI integrations.
-
----
+Portfolio projects in progress. Check back soon.
 
 ## Contact
 
-📧 toogt31@gmail.com
+- Email: toogt31@gmail.com
+- Open to freelance work: data cleaning, Excel automation, Power BI dashboards
